@@ -1,0 +1,51 @@
+@font-face{
+  font-family: GMV Din Pro;
+  src: url(GMV_DIN_Pro-Light.ttf);
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face{
+  font-family: GMV Din Pro;
+  src: url(GMV_DIN_Pro-Light_Italic.ttf);
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face{
+  font-family: GMV Din Pro;
+  src: url(GMV_DIN_Pro.ttf);
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face{
+  font-family: GMV Din Pro;
+  src: url(GMV_DIN_Pro-Italic.ttf);
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face{
+  font-family: GMV Din Pro;
+  src: url(GMV_DIN_Pro-Medium.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face{
+  font-family: GMV Din Pro;
+  src: url(GMV_DIN_Pro-Medium_Italic.ttf);
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face{
+  font-family: GMV Din Pro;
+  src: url(GMV_DIN_Pro-Bold.ttf);
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face{
+  font-family: GMV Din Pro;
+  src: url(GMV_DIN_Pro-Bold_Italic.ttf);
+  font-weight: 500;
+  font-style: italic;
+}
